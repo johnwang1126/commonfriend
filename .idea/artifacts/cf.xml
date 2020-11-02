@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="cf">
+    <output-path>$PROJECT_DIR$/out/artifacts/cf</output-path>
+    <root id="archive" name="cf.jar">
+      <element id="module-output" name="CommonFriend" />
+    </root>
+  </artifact>
+</component>
